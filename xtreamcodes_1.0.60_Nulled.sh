@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 echo " "
 jeshile='\e[40;38;5;82m' #jeshile
 jo='\e[0m' # pa ngjyra
