@@ -373,7 +373,7 @@ wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream
 wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.z08
 wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.z09
 wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.z10
-wget https://docs.google.com/uc?export=download&id=0B4G5uGFZVoIwbGhUUkZpaWctSm8 && unzip Xtream_Codes_v1.0.60_Nulled.zip && cp /var/www/html/downloads/iptv_panel_pro.zip /tmp && chmod a+x /tmp/iptv_panel_pro.zip && cp /var/www/html/downloads/install_iptv_pro.php /root/ && cd /root && chmod a+x /root/install_iptv_pro.php && php install_iptv_pro.php
+wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.zip && unzip Xtream_Codes_v1.0.60_Nulled.zip && cp /var/www/html/downloads/iptv_panel_pro.zip /tmp && chmod a+x /tmp/iptv_panel_pro.zip && cp /var/www/html/downloads/install_iptv_pro.php /root/ && cd /root && chmod a+x /root/install_iptv_pro.php && php install_iptv_pro.php
 chmod 775 /var/www/html/Xtream_Codes_v1.0.60_Nulled.zip
 rm /var/www/html/Xtream_Codes_v1.0.60_Nulled.zip
 cp /var/www/html/downloads/iptv_panel_pro.zip /tmp
