@@ -362,6 +362,7 @@ echo -e "${jeshile} └───────────────────
 echo " "
 #mkdir /var/www/html
 #cd /var/www/html #DESTINACIONI KRYESOR ADMIN - TEMPLATES ETC
+sudo apt-get update && sudo apt-get install rar unrar
 cd /var/www/html
 wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.z01
 wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.z02
