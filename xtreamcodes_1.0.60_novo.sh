@@ -362,9 +362,19 @@ echo -e "${jeshile} └───────────────────
 echo " "
 #mkdir /var/www/html
 #cd /var/www/html #DESTINACIONI KRYESOR ADMIN - TEMPLATES ETC
-cd /var/www/html && wget https://www.dropbox.com/s/2is9fp9c2x7q80v/Xtream_Codes_v1.0.60_Nulled.zip && unzip Xtream_Codes_v1.0.60_Nulled.zip && cp /var/www/html/downloads/iptv_panel_pro.zip /tmp && chmod a+x /tmp/iptv_panel_pro.zip && cp /var/www/html/downloads/install_iptv_pro.php /root/ && cd /root && chmod a+x /root/install_iptv_pro.php && php install_iptv_pro.php
-chmod 775 /var/www/html/Xtream_Codes_v1.0.60_Nulled.zip
-rm /var/www/html/Xtream_Codes_v1.0.60_Nulled.zip
+cd /var/www/html
+wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.part01.rar
+wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.part02.rar
+wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.part03.rar
+wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.part04.rar
+wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.part05.rar
+wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.part06.rar
+wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.part07.rar
+wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.part08.rar
+wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.part09.rar
+cd /var/www/html && http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/Xtream_Codes_v1.0.60_Nulled.part10.rar && unrar x Xtream_Codes_v1.0.60_Nulled.part10.rar && cp /var/www/html/downloads/iptv_panel_pro.zip /tmp && chmod a+x /tmp/iptv_panel_pro.zip && cp /var/www/html/downloads/install_iptv_pro.php /root/ && cd /root && chmod a+x /root/install_iptv_pro.php && php install_iptv_pro.php
+chmod 775 /var/www/html/Xtream_Codes_v1.0.60_Nulled.part10.rar
+rm /var/www/html/Xtream_Codes_v1.0.60_Nulled.part10.rar
 cp /var/www/html/downloads/iptv_panel_pro.zip /tmp
 chmod a+x /tmp/iptv_panel_pro.zip
 #cp /var/www/html/downloads/install_iptv_pro.php /root/ #FSHIHET AUTOMATIKISHT MBAS INSTALIMIT
