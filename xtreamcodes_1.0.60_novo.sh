@@ -426,7 +426,7 @@ echo -e "${jeshile} │  Removing TEMP Files  │ \e[0m"
 echo -e "${jeshile} └───────────────────────┘ \e[0m"
 echo " "
 rm /root/install_iptv_pro.php
-rm /root/xtreamcodes_1.0.60_Nulled.sh
+rm /root/xtreamcodes_1.0.60_novo.sh
 echo " "
 echo -e "${jeshile} ┌──────────────────────────────────────────────────────────┐ \e[0m"
 echo -e "${jeshile} │  Xtream Fuckers 10.60 Nulled By Albanian Crackers (TRC4) │ \e[0m"
