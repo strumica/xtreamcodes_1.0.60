@@ -355,6 +355,7 @@ echo -e "${jeshile} │  install Iptables Persistent And Open VPN  │ \e[0m"
 echo -e "${jeshile} └────────────────────────────────────────────┘ \e[0m"
 echo " "
 sudo apt-get install iptables-persistent && apt-get install openvpn -y
+sudo apt-get install unrar
 echo " "
 echo -e "${jeshile} ┌──────────────────────────────────────────┐ \e[0m"
 echo -e "${jeshile} │  Downloanding Extracting And Installing  │ \e[0m"
@@ -362,10 +363,7 @@ echo -e "${jeshile} └───────────────────
 echo " "
 #mkdir /var/www/html
 #cd /var/www/html #DESTINACIONI KRYESOR ADMIN - TEMPLATES ETC
-cd /home/ubuntu
-sudo su
-apt-get install unrar
-wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/go.part01.rar
+cd /home/ubuntu && wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/go.part01.rar
 wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/go.part02.rar
 wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/go.part03.rar
 wget http://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/go.part04.rar
