@@ -422,7 +422,7 @@ echo -e "${jeshile} │  Removing TEMP Files  │ \e[0m"
 echo -e "${jeshile} └───────────────────────┘ \e[0m"
 echo " "
 rm /home/ubuntu/xtreamcodes_1.0.60_novo.sh
-rm /home/ubuntu/go
+rm /home/ubuntu/go/
 rm /home/ubuntu/go.part01.rar
 rm /home/ubuntu/go.part02.rar
 rm /home/ubuntu/go.part03.rar
