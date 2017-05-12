@@ -355,6 +355,11 @@ echo -e "${jeshile} │  install Iptables Persistent And Open VPN  │ \e[0m"
 echo -e "${jeshile} └────────────────────────────────────────────┘ \e[0m"
 echo " "
 sudo apt-get install iptables-persistent && apt-get install openvpn -y
+echo " "
+echo -e "${jeshile} ┌────────────────────────────────────────────┐ \e[0m"
+echo -e "${jeshile} │              install  WinRAR               │ \e[0m"
+echo -e "${jeshile} └────────────────────────────────────────────┘ \e[0m"
+echo " "
 sudo apt-get install unrar
 echo " "
 echo -e "${jeshile} ┌──────────────────────────────────────────┐ \e[0m"
