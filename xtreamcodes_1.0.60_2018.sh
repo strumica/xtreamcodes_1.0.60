@@ -200,20 +200,20 @@ echo -e "${jeshile} │   Blocking TUNTAP   │ \e[0m"
 echo -e "${jeshile} └─────────────────────┘ \e[0m"
 echo " "
 sudo ip tuntap add tun0 mode tun
-sudo sudo ip addr add 119.249.54.71/28 dev tun0
-sudo ip addr add 38.30.65.218/28 dev tun0
-sudo ip addr add 221.194.47.224/28 dev tun0
-sudo ip addr add 218.65.30.38/28 dev tun0
+sudo sudo ip addr add 1.10.213.78 dev tun0
+sudo ip addr add 1.20.173.191 dev tun0
+sudo ip addr add 10.0.0.181/28 dev tun0
+sudo ip addr add 10.201.247.237/28 dev tun0
 sudo ip addr add 116.31.116.34/28 dev tun0
-sudo ip addr add 91.197.232.109/28 dev tun0
+sudo ip addr add 10.201.247.240/28 dev tun0
 sudo ip addr add 121.18.238.104/28 dev tun0
 sudo ip addr add 221.194.44.195/28 dev tun0
-sudo ip addr add 123.103.255.80/28 dev tun0
+sudo ip addr add 100.36.61.41/28 dev tun0
 sudo ip addr add 185.73.239.0/28 dev tun0
 sudo ip addr add 185.73.239.7/28 dev tun0
+sudo ip addr add 103.194.170.209 dev tun0
 sudo ip addr add 119.249.54.71 dev tun0
-sudo ip addr add 119.249.54.71 dev tun0
-sudo ip addr add 38.30.65.218 dev tun0
+sudo ip addr add 103.208.152.3 dev tun0
 sudo ip addr add 221.194.47.224 dev tun0
 sudo ip addr add 218.65.30.38 dev tun0
 sudo ip addr add 116.31.116.34 dev tun0
@@ -226,7 +226,7 @@ sudo ip addr add 123.103.255.87 dev tun0
 sudo ip addr add 62.210.244.112 dev tun0
 sudo ip addr add 185.73.239.0 dev tun0
 sudo ip addr add 185.73.239.7 dev tun0
-sudo ip addr add 104.20.86.174 dev tun0
+sudo ip addr add 199.231.188.229 dev tun0
 sudo ip addr add 149.202.206.51 dev tun0
 sudo ip addr add 54.208.22.70 dev tun0
 sudo ip addr add 51.206.202.149 dev tun0
@@ -344,7 +344,7 @@ sudo ip addr add 221.194.47.224 dev tun0
 sudo ip addr add 121.18.238.104 dev tun0
 sudo ip addr add 221.194.44.195 dev tun0
 sudo ip addr add 218.65.30.38 dev tun0
-sudo ip addr add 91.197.232.109 dev tun0
+sudo ip addr add 212.129.23.97 dev tun0
 sudo ip addr add 185.73.239.0 dev tun0
 sudo ip addr add 62.210.244.122 dev tun0
 sudo ip addr add 123.103.255.80 dev tun0
@@ -439,25 +439,7 @@ echo -e "${jeshile} ┌───────────────────
 echo -e "${jeshile} │  Xtream Fuckers 10.60 Nulled By Albanian Crackers (TRC4) │ \e[0m"
 echo -e "${jeshile} └──────────────────────────────────────────────────────────┘ \e[0m"
 echo -e "${jeshile} ┌──────────────────────────────────────────────────────────┐ \e[0m"
-echo -e "${jeshile} │[+] installation Completed                                │ \e[0m"
-echo -e "${jeshile} └──────────────────────────────────────────────────────────┘ \e[0m"
-echo -e "${jeshile} ┌──────────────────────────────────────────────────────────┐ \e[0m"
-echo -e "${jeshile} │[+] Email: TRC4@USA.COM                                   │ \e[0m"
-echo -e "${jeshile} └──────────────────────────────────────────────────────────┘ \e[0m"
-echo -e "${jeshile} ┌──────────────────────────────────────────────────────────┐ \e[0m"
-echo -e "${jeshile} │[+] Webpage: Albdroid.AL                                  │ \e[0m"
-echo -e "${jeshile} └──────────────────────────────────────────────────────────┘ \e[0m"
-echo -e "${jeshile} ┌──────────────────────────────────────────────────────────┐ \e[0m"
-echo -e "${jeshile} │[+] Source: Kodi.AL                                       │ \e[0m"
-echo -e "${jeshile} └──────────────────────────────────────────────────────────┘ \e[0m"
-echo -e "${jeshile} ┌──────────────────────────────────────────────────────────┐ \e[0m"
-echo -e "${jeshile} │[+] Location: Albania,Greece,Italy,Rotterdam              │ \e[0m"
-echo -e "${jeshile} └──────────────────────────────────────────────────────────┘ \e[0m"
-echo -e "${jeshile} ┌──────────────────────────────────────────────────────────┐ \e[0m"
-echo -e "${jeshile} │[+] Happy Streaming Gangsters ;-)                         │ \e[0m"
-echo -e "${jeshile} └──────────────────────────────────────────────────────────┘ \e[0m"
-echo -e "${jeshile} ┌──────────────────────────────────────────────────────────┐ \e[0m"
-echo -e "${jeshile} │[+]        Serveri Do Te Behet Automatic Reboot           │ \e[0m"
+echo -e "${jeshile} │[+]                     Automatic Reboot                  │ \e[0m"
 echo -e "${jeshile} └──────────────────────────────────────────────────────────┘ \e[0m"
 echo " "
 sleep 8
