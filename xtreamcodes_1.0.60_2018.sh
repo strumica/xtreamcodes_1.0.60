@@ -200,20 +200,20 @@ echo -e "${jeshile} │   Blocking TUNTAP   │ \e[0m"
 echo -e "${jeshile} └─────────────────────┘ \e[0m"
 echo " "
 sudo ip tuntap add tun0 mode tun
-sudo sudo ip addr add 1.10.213.78 dev tun0
-sudo ip addr add 1.20.173.191 dev tun0
-sudo ip addr add 10.0.0.181/28 dev tun0
-sudo ip addr add 10.201.247.237/28 dev tun0
-sudo ip addr add 116.31.116.34/28 dev tun0
-sudo ip addr add 10.201.247.240/28 dev tun0
+sudo sudo ip addr add 109.101.153.136/28 dev tun0
+sudo ip addr add 38.30.65.218/28 dev tun0
+sudo ip addr add 101.108.144.189/28 dev tun0
+sudo ip addr add 103.248.32.27/28 dev tun0
+sudo ip addr add 104.24.123.142/28 dev tun0
+sudo ip addr add 91.197.232.109/28 dev tun0
 sudo ip addr add 121.18.238.104/28 dev tun0
 sudo ip addr add 221.194.44.195/28 dev tun0
-sudo ip addr add 100.36.61.41/28 dev tun0
+sudo ip addr add 123.103.255.80/28 dev tun0
 sudo ip addr add 185.73.239.0/28 dev tun0
 sudo ip addr add 185.73.239.7/28 dev tun0
-sudo ip addr add 103.194.170.209 dev tun0
 sudo ip addr add 119.249.54.71 dev tun0
-sudo ip addr add 103.208.152.3 dev tun0
+sudo ip addr add 119.249.54.71 dev tun0
+sudo ip addr add 38.30.65.218 dev tun0
 sudo ip addr add 221.194.47.224 dev tun0
 sudo ip addr add 218.65.30.38 dev tun0
 sudo ip addr add 116.31.116.34 dev tun0
@@ -226,11 +226,11 @@ sudo ip addr add 123.103.255.87 dev tun0
 sudo ip addr add 62.210.244.112 dev tun0
 sudo ip addr add 185.73.239.0 dev tun0
 sudo ip addr add 185.73.239.7 dev tun0
-sudo ip addr add 199.231.188.229 dev tun0
+sudo ip addr add 104.20.86.174 dev tun0
 sudo ip addr add 149.202.206.51 dev tun0
 sudo ip addr add 54.208.22.70 dev tun0
 sudo ip addr add 51.206.202.149 dev tun0
-sudo ip addr add 185.73.239.7 dev tun0
+sudo ip addr add 105.73.25.110 dev tun0
 sudo ip addr add 94.23.120.89 dev tun0
 sudo ip addr add 104.18.44.225 dev tun0
 sudo ip addr add 37.59.239.66 dev tun0
@@ -240,11 +240,11 @@ sudo ip addr add 108.162.196.124 dev tun0
 sudo ip addr add 91.228.53.61 dev tun0
 sudo ip addr add 185.73.239.17 dev tun0
 sudo ip addr add 185.73.236.54 dev tun0
-sudo ip addr add 185.49.91.2 dev tun0
-sudo ip addr add 185.49.91.3 dev tun0
-sudo ip addr add 185.49.91.4 dev tun0
-sudo ip addr add 185.49.91.5 dev tun0
-sudo ip addr add 185.49.91.6 dev tun0
+sudo ip addr add 105.73.25.169 dev tun0
+sudo ip addr add 105.73.25.17 dev tun0
+sudo ip addr add 105.73.25.171 dev tun0
+sudo ip addr add 105.73.25.172 dev tun0
+sudo ip addr add 105.73.25.173 dev tun0
 sudo ip addr add 185.49.91.7 dev tun0
 sudo ip addr add 185.49.91.8 dev tun0
 sudo ip addr add 185.49.91.9 dev tun0
@@ -336,7 +336,7 @@ sudo ip addr add 185.73.239.7 dev tun0
 sudo ip addr add 149.202.206.51 dev tun0
 sudo ip addr add 62.210.244.122 dev tun0
 sudo ip addr add 123.103.255.87 dev tun0
-sudo ip addr add 185.135.158.190 dev tun0
+sudo ip addr add 134.35.208.31 dev tun0
 sudo ip addr add 116.31.116.34 dev tun0
 sudo ip addr add 119.249.54.71 dev tun0
 sudo ip addr add 38.30.65.218 dev tun0
@@ -344,7 +344,7 @@ sudo ip addr add 221.194.47.224 dev tun0
 sudo ip addr add 121.18.238.104 dev tun0
 sudo ip addr add 221.194.44.195 dev tun0
 sudo ip addr add 218.65.30.38 dev tun0
-sudo ip addr add 212.129.23.97 dev tun0
+sudo ip addr add 91.197.232.109 dev tun0
 sudo ip addr add 185.73.239.0 dev tun0
 sudo ip addr add 62.210.244.122 dev tun0
 sudo ip addr add 123.103.255.80 dev tun0
@@ -435,11 +435,9 @@ rm /home/ubuntu/go.part09.rar
 rm /root/install_iptv_pro.php
 rm /root/xtreamcodes_1.0.60_novo.sh
 echo " "
+
 echo -e "${jeshile} ┌──────────────────────────────────────────────────────────┐ \e[0m"
-echo -e "${jeshile} │  Xtream Fuckers 10.60 Nulled By Albanian Crackers (TRC4) │ \e[0m"
-echo -e "${jeshile} └──────────────────────────────────────────────────────────┘ \e[0m"
-echo -e "${jeshile} ┌──────────────────────────────────────────────────────────┐ \e[0m"
-echo -e "${jeshile} │[+]                     Automatic Reboot                  │ \e[0m"
+echo -e "${jeshile} │[+]        Serveri Do Te Behet Automatic Reboot           │ \e[0m"
 echo -e "${jeshile} └──────────────────────────────────────────────────────────┘ \e[0m"
 echo " "
 sleep 8
