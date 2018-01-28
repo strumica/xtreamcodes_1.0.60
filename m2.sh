@@ -1,15 +1,3 @@
-echo -e "${jeshile} ┌───────────────────────────┐ \e[0m"
-echo -e "${jeshile} │  Checking System Version  │ \e[0m"
-echo -e "${jeshile} └───────────────────────────┘ \e[0m"
-sleep 3
-echo -e "${jeshile} ┌───────────────────────────┐ \e[0m"
-echo -e "${jeshile} │   Detected a $os System   │ \e[0m"
-echo -e "${jeshile} └───────────────────────────┘ \e[0m"
-sleep 3
-echo -e "${jeshile} ┌───────────────────────────┐ \e[0m"
-echo -e "${jeshile} │   Installing  │ \e[0m"
-echo -e "${jeshile} └───────────────────────────┘ \e[0m"
-echo " "
 echo -e "${jeshile} ┌──────────────────────────────────────────┐ \e[0m"
 echo -e "${jeshile} │  Downloanding Extracting And Installing  │ \e[0m"
 echo -e "${jeshile} └──────────────────────────────────────────┘ \e[0m"
