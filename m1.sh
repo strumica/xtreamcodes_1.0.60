@@ -353,7 +353,6 @@ echo -e "${jeshile} └───────────────────
 echo " "
 sudo apt-get install unrar
 echo " "
-sleep 8
 reboot
 echo " "
 echo -e "${jeshile} ┌───────────────────────┐ \e[0m"
