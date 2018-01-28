@@ -1,16 +1,16 @@
 # ALL
 
-wget https://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/1.sh
+wget https://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/m1.sh
 
-chmod 755 1.sh
+chmod 755 m1.sh
 
-./1.sh
+./m1.sh
 
-wget https://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/2.sh
+wget https://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/m2.sh
 
-chmod 755 2.sh
+chmod 755 m2.sh
 
-./2.sh
+./m2.sh
 
 ==========================================================================
 
