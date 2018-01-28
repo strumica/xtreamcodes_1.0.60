@@ -1,12 +1,3 @@
-#!/bin/bash
-echo " "
-jeshile='\e[40;38;5;82m' #jeshile
-jo='\e[0m' # pa ngjyra
-os=$(exec uname -m|grep 64)
-if [ "$os" = "" ]
-then os="x86"
-else os="x64"
-fi
 echo -e "${jeshile} ┌───────────────────────────┐ \e[0m"
 echo -e "${jeshile} │  Checking System Version  │ \e[0m"
 echo -e "${jeshile} └───────────────────────────┘ \e[0m"
