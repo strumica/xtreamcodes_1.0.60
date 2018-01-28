@@ -1,4 +1,8 @@
-# ALL 2018
+# ALL 
+
+
+
+# 2018
 
 wget https://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/xtreamcodes_1.0.60_2018.sh
 
