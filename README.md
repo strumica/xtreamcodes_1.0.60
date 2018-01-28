@@ -12,7 +12,7 @@ chmod 755 2.sh
 
 ./2.sh
 
-# ALL
+# ALL 2
 
 wget https://raw.githubusercontent.com/marconimp/xtreamcodes_1.0.60/master/m1.sh
 
